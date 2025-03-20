@@ -56,12 +56,12 @@ a
 	display: none;
 }
 
-.card-categoory
+.card-category
 {
 	color: var(--color-primary);
 }
 
-.sectioon-header
+.section-header
 {
 	text-align: var(--section-header-align);
 }
@@ -74,6 +74,7 @@ a
 	margin: var(--section-title-margin);
 	color: var(--section-title-color);
 }
+
 .section-tagline
 {
 	color: var(--color-primary);

@@ -54,12 +54,12 @@ a
 	display: none;
 }
 
-.card-categoory
+.card-category
 {
 	color: var(--color-primary);
 }
 
-.sectioon-header
+.section-header
 {
 	text-align: var(--section-header-align);
 }
